@@ -1,0 +1,7 @@
+resolver: nightly-2019-05-13
+
+packages:
+- .
+
+extra-include-dirs:
+- /usr/share/R/include
